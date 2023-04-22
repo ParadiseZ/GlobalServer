@@ -1,0 +1,15 @@
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\bin\Release\GlobalServer.exe.config
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\bin\Release\GlobalServer.exe
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\bin\Release\GlobalServer.pdb
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\bin\Release\CsvTextFieldParser.dll
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\bin\Release\Newtonsoft.Json.dll
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\bin\Release\CsvTextFieldParser.xml
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\bin\Release\Newtonsoft.Json.xml
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\obj\Release\GlobalServer.csproj.AssemblyReference.cache
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\obj\Release\GlobalServer.csproj.SuggestedBindingRedirects.cache
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\obj\Release\GlobalServer.Properties.Resources.resources
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\obj\Release\GlobalServer.csproj.GenerateResource.cache
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\obj\Release\GlobalServer.csproj.CoreCompileInputs.cache
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\obj\Release\GlobalServer.csproj.CopyComplete
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\obj\Release\GlobalServer.exe
+E:\Databases\PROJECT\VS\GlobalServer\GlobalServer\obj\Release\GlobalServer.pdb
